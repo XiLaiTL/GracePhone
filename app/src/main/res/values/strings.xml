@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GracePhone</string>
+    <string name="poem">poem</string>
+    <string name="flower">flower</string>
+    <string name="paint">paint</string>
+    <string name="note">note</string>
+    <string name="settings">settings</string>
+    <string name="search">search</string>
+    <string name="home">home</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+    <string name="input">Input Notes</string>
+</resources>

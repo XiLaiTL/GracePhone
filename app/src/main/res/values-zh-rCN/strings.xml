@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">风雅</string>
+    <string name="poem">诗</string>
+    <string name="flower">花</string>
+    <string name="paint">画</string>
+    <string name="note">记录</string>
+    <string name="settings">设置</string>
+    <string name="home">主页</string>
+    <string name="day1">星期一</string>
+    <string name="day2">星期二</string>
+    <string name="day3">星期三</string>
+    <string name="day4">星期四</string>
+    <string name="day5">星期五</string>
+    <string name="day6">星期六</string>
+    <string name="day7">星期日</string>
+    <string name="search">搜索</string>
+    <string name="input">键入笔记</string>
+</resources>
